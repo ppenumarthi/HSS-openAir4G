@@ -1,0 +1,274 @@
+Script started on Thu 26 Mar 2015 12:35:20 PM PDT
+]0;phanik@ubuntu: ~/oHSS/trunk/targets/PROJECTS/GENERIC-LTE-EPCphanik@ubuntu:~/oHSS/trunk/targets/PROJECTS/GENERIC-LTE-EPC$ ./start_hss.bash
+[32mOPENAIR_DIR     = /home/phanik/oHSS/trunk[00m
+[32mOPENAIR_HOME    = /home/phanik/oHSS/trunk[00m
+[32mOPENAIR1_DIR    = /home/phanik/oHSS/trunk/openair1[00m
+[32mOPENAIR2_DIR    = /home/phanik/oHSS/trunk/openair2[00m
+[32mOPENAIR3_DIR    = /home/phanik/oHSS/trunk/openair3[00m
+[32mOPENAIRCN_DIR   = /home/phanik/oHSS/trunk/openair-cn[00m
+[32mOPENAIR_TARGETS = /home/phanik/oHSS/trunk/targets[00m
+[32mCompiling...[00m
+make  all-recursive
+make[1]: Entering directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs'
+Making all in access_restriction
+make[2]: Entering directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs/access_restriction'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs/access_restriction'
+Making all in auc
+make[2]: Entering directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs/auc'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs/auc'
+Making all in db
+make[2]: Entering directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs/db'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs/db'
+Making all in s6a
+make[2]: Entering directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs/s6a'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs/s6a'
+Making all in utils
+make[2]: Entering directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs/utils'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs/utils'
+Making all in tests
+make[2]: Entering directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs/tests'
+make[2]: Nothing to be done for `all'.
+make[2]: Leaving directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs/tests'
+Making all in .
+make[2]: Entering directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs'
+make[2]: Leaving directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs'
+make[1]: Leaving directory `/home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/objs'
+REALM FOUND=pft
+hss.eur
+[32mHSS S6A: Found valid certificate in /home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/conf/[00m
+==== EURECOM openair-hss v1.0.0.6329 ====
+Please report any bug to: openair_admin@eurecom.fr
+
+Parsing configuration file: /home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/conf/hss.conf
+Configuration
+* Global:
+	- File .............: /home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/conf/hss.conf
+* MYSQL:
+	- Server ...........: 127.0.0.1
+	- Database .........: oai_db
+	- User .............: root
+	- Password .........: *****
+* FreeDiameter:
+	- Conf file ........: ../conf/hss_fd.conf
+../../db/db_connector.c:71: Initializing db layer
+../../db/db_connector.c:103: Initializing db layer: DONE
+Initializing s6a layer
+libfdproto initialized.
+libgnutls '3.1.0' initialized.
+Generating fresh Diffie-Hellman parameters of size 1024 (this takes some time)... 
+Loading : /usr/lib/freeDiameter/dict_nas_mipv6.fdx
+Dictionary Extension 'MIPv6 NAS-to-HAAA Interaction' initialized
+Loading : /usr/lib/freeDiameter/dict_s6a.fdx
+Dictionary Extension 'S6A from 3GPP standard v.10.5' initialized
+All extensions loaded.
+-- Configuration :
+  Debug trace level ...... : +1
+  Configuration file ..... : ../conf/hss_fd.conf
+  Diameter Identity ...... : hss.pft (l:7)
+  Diameter Realm ......... : pft (l:3)
+  Tc Timer ............... : 30
+  Tw Timer ............... : 30
+  Local port ............. : 3868
+  Local secure port ...... : 3869
+  Number of SCTP streams . : 15
+  Number of server threads : 4
+  Local endpoints ........ : 
+                             [130.245.144.231]:0 {C---}
+  Local applications ..... : (none)
+  Flags : - IP ........... : Enabled
+          - IPv6 ......... : DISABLED
+          - Relay app .... : DISABLED
+          - TCP .......... : DISABLED
+          - SCTP ......... : Enabled
+          - Pref. proto .. : SCTP
+          - TLS method ... : INBAND
+  TLS :   - Certificate .. : /home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/conf/hss.cert.pem
+          - Private key .. : /home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/conf/hss.key.pem
+          - CA (trust) ... : /home/phanik/oHSS/trunk/openair-cn/OPENAIRHSS/conf/cacert.pem (1 certs)
+          - CRL .......... : (none)
+          - Priority ..... : (default: 'NORMAL')
+          - DH bits ...... : 1024
+  Origin-State-Id ........ : 1427398529
+Initializing s6a layer: DONE
+SCTP srv :3868 (5) : accepted new client [130.245.144.229].
+../../db/db_epc_equipment.c:111: Query: SELECT idmmeidentity FROM mmeidentity WHERE mmeidentity.mmehost='ubuntu.pft' 
+Accepting ubuntu.pft peer
+Sent to 'SCTP from [130.245.144.229]:48673 (5<-8)'
+Logged: 03/26/15,12:36:17.913481
+
+ |MSG: 0x7f9d24000d90
+ |   model : v/m:----/RP-T, 257 "Capabilities-Exchange-Answer"
+ |   public: V:1 L:176 fl:---- CC:257 A:0 hi:204a16 ei:fae00000
+ |   intern: rwb:(nil) rt:0 cb:(nil)((nil)) qry:0x7f9d1c000a50 asso:0 sess:(nil) src:(nil)(0)
+No TLS protection negotiated with peer 'ubuntu.pft'.
+Sent to 'SCTP from [130.245.144.229]:48673 (5<-8)'
+Logged: 03/26/15,12:36:17.913693
+
+ |MSG: 0x7f9d240010c0
+ |   model : v/m:R---/RPET, 280 "Device-Watchdog-Request"
+ |   public: V:1 L:60 fl:R--- CC:280 A:0 hi:204a16 ei:f8100000
+ |   intern: rwb:(nil) rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+Received 80b from 'ubuntu.pft' (STATE_OPEN_NEW)
+Logged: 03/26/15,12:36:17.922543
+
+ |MSG: 0x7f9d240016a0
+ |   (no model)
+ |   public: V:1 L:80 fl:---- CC:280 A:0 hi:204a16 ei:f8100000
+ |   intern: rwb:0x7f9d1c001f50 rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+'STATE_OPEN_NEW'	-> 'STATE_OPEN'	'ubuntu.pft'
+'STATE_OPEN'	-> 'STATE_CLOSED'	'ubuntu.pft'
+'STATE_CLOSED'	-> STATE_ZOMBIE (terminated)	'ubuntu.pft'
+Garbage Collect: delete zombie peer 'ubuntu.pft'
+SCTP srv :3868 (5) : accepted new client [130.245.144.229].
+../../db/db_epc_equipment.c:111: Query: SELECT idmmeidentity FROM mmeidentity WHERE mmeidentity.mmehost='ubuntu.pft' 
+Accepting ubuntu.pft peer
+Sent to 'SCTP from [130.245.144.229]:38956 (5<-9)'
+Logged: 03/26/15,12:44:50.111021
+
+ |MSG: 0x7f9d30000da0
+ |   model : v/m:----/RP-T, 257 "Capabilities-Exchange-Answer"
+ |   public: V:1 L:176 fl:---- CC:257 A:0 hi:204a16 ei:1ae00000
+ |   intern: rwb:(nil) rt:0 cb:(nil)((nil)) qry:0x7f9d240010c0 asso:0 sess:(nil) src:(nil)(0)
+No TLS protection negotiated with peer 'ubuntu.pft'.
+Sent to 'SCTP from [130.245.144.229]:38956 (5<-9)'
+Logged: 03/26/15,12:44:50.111155
+
+ |MSG: 0x7f9d300010d0
+ |   model : v/m:R---/RPET, 280 "Device-Watchdog-Request"
+ |   public: V:1 L:60 fl:R--- CC:280 A:0 hi:5542a27 ei:f8100001
+ |   intern: rwb:(nil) rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+Received 80b from 'ubuntu.pft' (STATE_OPEN_NEW)
+Logged: 03/26/15,12:44:50.134689
+
+ |MSG: 0x7f9d30000e10
+ |   (no model)
+ |   public: V:1 L:80 fl:---- CC:280 A:0 hi:5542a27 ei:f8100001
+ |   intern: rwb:0x7f9d24002580 rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+'STATE_OPEN_NEW'	-> 'STATE_OPEN'	'ubuntu.pft'
+Sent to 'SCTP from [130.245.144.229]:38956 (5<-9)'
+Logged: 03/26/15,12:45:19.497042
+
+ |MSG: 0x7f9d30000fc0
+ |   model : v/m:R---/RPET, 280 "Device-Watchdog-Request"
+ |   public: V:1 L:60 fl:R--- CC:280 A:0 hi:5542a28 ei:f8100002
+ |   intern: rwb:(nil) rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+Received 80b from 'ubuntu.pft' (STATE_OPEN)
+Logged: 03/26/15,12:45:19.497851
+
+ |MSG: 0x7f9d30000e10
+ |   (no model)
+ |   public: V:1 L:80 fl:---- CC:280 A:0 hi:5542a28 ei:f8100002
+ |   intern: rwb:0x7f9d24002580 rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+Received 220b from 'ubuntu.pft' (STATE_OPEN)
+Logged: 03/26/15,12:45:21.031729
+
+ |MSG: 0x7f9d30000dc0
+ |   (no model)
+ |   public: V:1 L:220 fl:RP-- CC:318 A:16777251 hi:204a17 ei:0
+ |   intern: rwb:0x7f9d24002580 rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+Converted 138020 to plmn 310.28
+../../db/db_connector.c:531: Query: SELECT `key`,`sqn`,`rand` FROM `users` WHERE `users`.`imsi`=31002890832150 
+Key: 2b.c3.96.45.3c.39.66.3e.3c.38.32.3e.c3.85.c2.b3.
+Received SQN 00000000000000000160 converted to 160
+SQN: 00.00.00.00.00.a0.
+RAND: 30.78.31.39.20.30.78.35.35.20.30.78.32.39.20.30.
+../../db/db_connector.c:403: Query: UPDATE `users` SET `rand`=UNHEX('4f9a272074803439f347a7a2284b2e40'),`sqn`=160 WHERE `users`.`imsi`='31002890832150'
+../../db/db_connector.c:430: 1 rows affected
+../../db/db_connector.c:467: Query: UPDATE `users` SET `sqn` = `sqn` + 32 WHERE `users`.`imsi`=31002890832150
+../../db/db_connector.c:492: 1 rows affected
+ComputeOPc: OP : 11111111111111111111111111111111 MAC_A   : f5.6b.29.c9.e2.ba.df.e7.
+SQN     : 00.00.00.00.00.a0.
+RAND    : 4f.9a.27.20.74.80.34.39.f3.47.a7.a2.28.4b.2e.40.
+ComputeOPc: OP : 11111111111111111111111111111111 AK      : 36.8a.a3.4b.b5.33.
+CK      : 04.b3.91.ff.6c.ef.bc.72.9c.f4.bb.bf.59.9f.48.39.
+IK      : 19.8e.01.93.da.f1.cb.4d.b7.07.77.95.e7.fd.e2.f3.
+XRES    : 8d.71.c9.b2.07.60.d3.20.
+AUTN    : 36.8a.a3.4b.b5.93.80.00.f5.6b.29.c9.e2.ba.df.e7.
+0x04 0xb3 0x91 0xff 0x6c 0xef 0xbc 0x72 0x9c 0xf4 0xbb 0xbf 0x59 0x9f 0x48 0x39 0x19 0x8e 0x01 0x93 0xda 0xf1 0xcb 0x4d 0xb7 0x07 0x77 0x95 0xe7 0xfd 0xe2 0xf3 
+0x10 0x13 0x80 0x20 0x00 0x03 0x36 0x8a 0xa3 0x4b 0xb5 0x93 0x00 0x06 
+KASME   : b6.94.d3.86.aa.1e.4e.7c.2b.f4.58.89.84.87.33.f9.8c.56.51.62.86.e6.6b.55.62.d9.c7.f7.14.5a.04.96.
+Sent to 'SCTP from [130.245.144.229]:38956 (5<-9)'
+Logged: 03/26/15,12:45:21.033186
+
+ |MSG: 0x7f9d20002970
+ |   model : v/m:-P--/RPE-, 318 "Authentication-Information-Answer"
+ |   public: V:1 L:256 fl:---- CC:318 A:16777251 hi:204a17 ei:0
+ |   intern: rwb:(nil) rt:0 cb:(nil)((nil)) qry:0x7f9d30000dc0 asso:0 sess:0x7f9d200028a0 src:(nil)(0)
+Received 68b from 'ubuntu.pft' (STATE_OPEN)
+Logged: 03/26/15,12:45:51.815249
+
+ |MSG: 0x7f9d300016e0
+ |   (no model)
+ |   public: V:1 L:68 fl:R--- CC:280 A:0 hi:204a18 ei:1ae00001
+ |   intern: rwb:0x7f9d24002580 rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+Sent to 'SCTP from [130.245.144.229]:38956 (5<-9)'
+Logged: 03/26/15,12:45:51.815408
+
+ |MSG: 0x7f9d30000f20
+ |   model : v/m:----/RP-T, 280 "Device-Watchdog-Answer"
+ |   public: V:1 L:72 fl:---- CC:280 A:0 hi:204a18 ei:1ae00001
+ |   intern: rwb:(nil) rt:0 cb:(nil)((nil)) qry:0x7f9d300016e0 asso:0 sess:(nil) src:(nil)(0)
+Sent to 'SCTP from [130.245.144.229]:38956 (5<-9)'
+Logged: 03/26/15,12:46:21.830736
+
+ |MSG: 0x7f9d30000dc0
+ |   model : v/m:R---/RPET, 280 "Device-Watchdog-Request"
+ |   public: V:1 L:60 fl:R--- CC:280 A:0 hi:5542a29 ei:f8100003
+ |   intern: rwb:(nil) rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+Received 80b from 'ubuntu.pft' (STATE_OPEN)
+Logged: 03/26/15,12:46:26.209738
+
+ |MSG: 0x7f9d30000f50
+ |   (no model)
+ |   public: V:1 L:80 fl:---- CC:280 A:0 hi:5542a29 ei:f8100003
+ |   intern: rwb:0x7f9d24002580 rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+Sent to 'SCTP from [130.245.144.229]:38956 (5<-9)'
+Logged: 03/26/15,12:46:55.608163
+
+ |MSG: 0x7f9d30000dc0
+ |   model : v/m:R---/RPET, 280 "Device-Watchdog-Request"
+ |   public: V:1 L:60 fl:R--- CC:280 A:0 hi:5542a2a ei:f8100004
+ |   intern: rwb:(nil) rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+'STATE_OPEN'	-> 'STATE_SUSPECT'	'ubuntu.pft'
+Sent & unanswered local message discarded during failover.
+Logged: 03/26/15,12:47:25.608478
+
+ |MSG: 0x7f9d30000dc0
+ |   model : v/m:R---/RPET, 280 "Device-Watchdog-Request"
+ |   public: V:1 L:60 fl:R--- CC:280 A:0 hi:5542a2a ei:f8100004
+ |   intern: rwb:(nil) rt:2 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+Received 80b from 'ubuntu.pft' (STATE_SUSPECT)
+Logged: 03/26/15,12:48:08.676877
+
+ |MSG: 0x7f9d30000dc0
+ |   (no model)
+ |   public: V:1 L:80 fl:---- CC:280 A:0 hi:5542a2a ei:f8100004
+ |   intern: rwb:0x7f9d24002580 rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+There is no saved request with this hop-by-hop id (5542a2a)
+Answer received with no corresponding sent request.
+Logged: 03/26/15,12:48:08.676948
+
+ |MSG: 0x7f9d30000dc0
+ |   (no model)
+ |   public: V:1 L:80 fl:---- CC:280 A:0 hi:5542a2a ei:f8100004
+ |   intern: rwb:0x7f9d24002580 rt:0 cb:(nil)((nil)) qry:(nil) asso:0 sess:(nil) src:(nil)(0)
+'STATE_CLOSED'	-> STATE_ZOMBIE (terminated)	'ubuntu.pft'
+Garbage Collect: delete zombie peer 'ubuntu.pft'
+
+
+
+
+
+
+
+
+
+
+^C
+]0;phanik@ubuntu: ~/oHSS/trunk/targets/PROJECTS/GENERIC-LTE-EPCphanik@ubuntu:~/oHSS/trunk/targets/PROJECTS/GENERIC-LTE-EPC$ q[Kexit
+Script done on Thu 26 Mar 2015 12:49:47 PM PDT

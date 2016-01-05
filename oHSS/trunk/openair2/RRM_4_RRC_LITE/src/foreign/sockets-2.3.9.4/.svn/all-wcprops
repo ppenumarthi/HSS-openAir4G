@@ -1,0 +1,785 @@
+K 25
+svn:wc:ra_dav:version-url
+V 82
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4
+END
+SocketHandlerThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 106
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SocketHandlerThread.cpp
+END
+EventHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/EventHandler.cpp
+END
+SocketHandlerEp.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SocketHandlerEp.h
+END
+AjpBaseSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/AjpBaseSocket.h
+END
+MemFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/MemFile.h
+END
+Base64.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Base64.cpp
+END
+HttpPutSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpPutSocket.h
+END
+Ajp13Socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Ajp13Socket.cpp
+END
+IFile.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/IFile.h
+END
+Exception.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Exception.cpp
+END
+EventTime.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/EventTime.cpp
+END
+Utility.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Utility.cpp
+END
+TcpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/TcpSocket.h
+END
+StreamSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/StreamSocket.h
+END
+IEventOwner.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/IEventOwner.h
+END
+SSLInitializer.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SSLInitializer.h
+END
+Parse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Parse.cpp
+END
+Event.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Event.cpp
+END
+ResolvSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/ResolvSocket.cpp
+END
+IHttpServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/IHttpServer.h
+END
+EventHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/EventHandler.h
+END
+IBase.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/IBase.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Makefile.am
+END
+FileStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/FileStream.cpp
+END
+Debug.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Debug.h
+END
+Ajp13Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Ajp13Socket.h
+END
+IFileUpload.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/IFileUpload.h
+END
+HttpResponse.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpResponse.h
+END
+StreamSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/StreamSocket.cpp
+END
+README.macosx
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/README.macosx
+END
+Changelog
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Changelog
+END
+ResolvServer.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/ResolvServer.h
+END
+HttpdForm.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpdForm.cpp
+END
+Utility.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Utility.h
+END
+README
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/README
+END
+Sockets-config.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Sockets-config.cpp
+END
+HttpBaseSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpBaseSocket.cpp
+END
+Semaphore.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Semaphore.cpp
+END
+ajp13.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/ajp13.h
+END
+HttpTransaction.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpTransaction.cpp
+END
+ResolvSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/ResolvSocket.h
+END
+FileStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/FileStream.h
+END
+HttpPostSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpPostSocket.h
+END
+HttpdCookies.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpdCookies.h
+END
+Mutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Mutex.h
+END
+XmlNode.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/XmlNode.h
+END
+HttpdForm.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpdForm.h
+END
+HttpPutSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpPutSocket.cpp
+END
+SocketHandlerThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 104
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SocketHandlerThread.h
+END
+SocketThread.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SocketThread.h
+END
+HttpBaseSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpBaseSocket.h
+END
+Semaphore.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Semaphore.h
+END
+Ipv6Address.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Ipv6Address.cpp
+END
+Socket.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Socket.h
+END
+HttpdCookies.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpdCookies.cpp
+END
+Exception.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Exception.h
+END
+ISocketHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/ISocketHandler.h
+END
+IEventOwner.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/IEventOwner.cpp
+END
+SSLInitializer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SSLInitializer.cpp
+END
+UdpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/UdpSocket.h
+END
+File.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/File.cpp
+END
+gpl.txt
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/gpl.txt
+END
+Parse.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Parse.h
+END
+SocketThread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SocketThread.cpp
+END
+SctpSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SctpSocket.cpp
+END
+SocketHandler.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SocketHandler.cpp
+END
+Socket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Socket.cpp
+END
+Lock.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Lock.h
+END
+Ipv4Address.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Ipv4Address.h
+END
+IEventHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/IEventHandler.h
+END
+ResolvServer.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/ResolvServer.cpp
+END
+MemFile.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/MemFile.cpp
+END
+Json.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Json.h
+END
+AjpBaseSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/AjpBaseSocket.cpp
+END
+XmlException.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/XmlException.cpp
+END
+File.h
+K 25
+svn:wc:ra_dav:version-url
+V 89
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/File.h
+END
+Lock.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Lock.cpp
+END
+Ipv4Address.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Ipv4Address.cpp
+END
+StdoutLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/StdoutLog.h
+END
+OSX.zip
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/OSX.zip
+END
+StreamWriter.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/StreamWriter.h
+END
+HTTPSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HTTPSocket.h
+END
+HttpRequest.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpRequest.h
+END
+HttpGetSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpGetSocket.h
+END
+XmlDocument.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/XmlDocument.cpp
+END
+HttpDebugSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpDebugSocket.cpp
+END
+StdLog.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/StdLog.h
+END
+SmtpdSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SmtpdSocket.h
+END
+mkdot.sh
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/mkdot.sh
+END
+Thread.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 93
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Thread.cpp
+END
+sockets-config.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/sockets-config.h
+END
+XmlException.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/XmlException.h
+END
+StdoutLog.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/StdoutLog.cpp
+END
+Debug.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Debug.cpp
+END
+Event.h
+K 25
+svn:wc:ra_dav:version-url
+V 90
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Event.h
+END
+HttpClientSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 103
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpClientSocket.cpp
+END
+HTTPSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HTTPSocket.cpp
+END
+HttpGetSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpGetSocket.cpp
+END
+HttpRequest.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpRequest.cpp
+END
+StreamWriter.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/StreamWriter.cpp
+END
+socket_include.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/socket_include.cpp
+END
+Sockets-config
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Sockets-config
+END
+HttpResponse.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpResponse.cpp
+END
+Ipv6Address.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Ipv6Address.h
+END
+SmtpdSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SmtpdSocket.cpp
+END
+UdpSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/UdpSocket.cpp
+END
+HttpdSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpdSocket.h
+END
+SocketAddress.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SocketAddress.h
+END
+HttpDebugSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpDebugSocket.h
+END
+XmlDocument.h
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/XmlDocument.h
+END
+SocketStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SocketStream.h
+END
+SocketHandlerEp.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 102
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SocketHandlerEp.cpp
+END
+ListenSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 97
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/ListenSocket.h
+END
+Thread.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Thread.h
+END
+IMutex.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/IMutex.h
+END
+SctpSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 95
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SctpSocket.h
+END
+Base64.h
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Base64.h
+END
+HttpTransaction.h
+K 25
+svn:wc:ra_dav:version-url
+V 100
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpTransaction.h
+END
+SocketHandler.h
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SocketHandler.h
+END
+HttpdSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 98
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpdSocket.cpp
+END
+HttpClientSocket.h
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpClientSocket.h
+END
+HttpPostSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 101
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/HttpPostSocket.cpp
+END
+TcpSocket.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 96
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/TcpSocket.cpp
+END
+socket_include.h
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/socket_include.h
+END
+Mutex.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Mutex.cpp
+END
+SocketStream.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 99
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/SocketStream.cpp
+END
+EventTime.h
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/EventTime.h
+END
+XmlNode.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 94
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/XmlNode.cpp
+END
+IStream.h
+K 25
+svn:wc:ra_dav:version-url
+V 92
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/IStream.h
+END
+Json.cpp
+K 25
+svn:wc:ra_dav:version-url
+V 91
+/openair4G/!svn/ver/1191/trunk/openair2/RRM_4_RRC_LITE/src/foreign/sockets-2.3.9.4/Json.cpp
+END
